@@ -1,0 +1,2 @@
+# FindMinimum
+This is a VB program, that takes three number inputs, and outputs the lowest number. It even takes Negative inputs and compares both positive and negative. You will also see error messages when you enter anything other than an number. Then it will clear the input and make you have a number input.  If this promgram does NOT RUN properly, then here is the link to download from my google drive (since it's a VB program, it might have to be in proper folder) https://drive.google.com/open?id=0B5XOLA1-8cy2YUtfRF9ab2lwcTQ
