@@ -1,0 +1,11 @@
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\bin\Debug\MinimumNumber.exe.config
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\bin\Debug\MinimumNumber.exe
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\bin\Debug\MinimumNumber.pdb
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\bin\Debug\MinimumNumber.xml
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.vbprojResolveAssemblyReference.cache
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.Form1.resources
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.Resources.resources
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.vbproj.GenerateResource.Cache
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.exe
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.xml
+c:\users\azad\documents\visual studio 2015\Projects\MinimumNumber\MinimumNumber\obj\Debug\MinimumNumber.pdb
